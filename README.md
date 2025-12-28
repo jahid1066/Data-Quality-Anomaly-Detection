@@ -37,7 +37,7 @@ The project is designed to reflect **industry-grade data science workflows** com
 | Missing Values | 0 |
 | Duplicate Rows | 1,081 |
 
-✔ No missing values  
+ No missing values  
  Presence of duplicate transactions (important for financial systems)
 
 ### Statistical Sanity Checks
