@@ -160,10 +160,4 @@ jupyter notebook
 ## Author
 Md Jahidul Islam
 
----
-
-## License
-This project is for academic, educational, and portfolio purposes.
-
----
 
